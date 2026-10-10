@@ -1,7 +1,7 @@
 # MyCodingPortfolio
 Hello, I'm [Name], an XX student studying Mathematics and Computer Science.
 This repository stores my competitive programming solutions and self-written small projects.
-
+Guess what?
 ## Contents
 1. USACO Competitive Programming
     - Bronze: Basic algorithms
